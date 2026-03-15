@@ -24,7 +24,7 @@ h1{
 
 <p>This webpage is created using HTML, CSS and JavaScript.</p>
 
-<img src=""C:\Users\B.ASHOK\Downloads\imageintern.avif"">
+<img src=""https://img.freepik.com/free-photo/closeup-scarlet-macaw-from-side-view-scarlet-macaw-closeup-head_488145-3540.jpg?semt=ais_hybrid&w=740&q=80"">
 
 <br><br>
 
