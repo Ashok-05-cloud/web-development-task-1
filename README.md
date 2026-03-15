@@ -28,7 +28,7 @@ h1{
 
 <br><br>
 
-<a href="https://www.apexplanet.com">Go to apexplanet</a>
+<a href="https://www.instagram.com">Go to instagram</a>
 
 <br><br>
 
